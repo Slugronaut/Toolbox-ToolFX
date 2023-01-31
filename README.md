@@ -7,3 +7,6 @@ Dependencies:
 [com.postegames.eventbehaviourframework](https://github.com/Slugronaut/Toolbox-EventBehaviourFramework)  
 [com.postegames.hashedstring](https://github.com/Slugronaut/Toolbox-HashedString)  
 [com.postegames.unityextensions](https://github.com/Slugronaut/Toolbox-UnityExtensions)  
+
+Third-Party Dependencies:  
+[Odin](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)  
