@@ -10,3 +10,6 @@ Dependencies:
 
 Third-Party Dependencies:  
 [Odin](https://assetstore.unity.com/packages/tools/utilities/odin-inspector-and-serializer-89041)  
+[NodeCancavs](https://assetstore.unity.com/packages/tools/visual-scripting/nodecanvas-14914)  
+
+NOTE: The majority of NodeCanvas is not needed. I needed a Blackboard system and it was already conveniently in the project so I went with it. Perhaps some day I'll re-implement my own Blackboard or reference another free alterantive. For now it's not a massive undertaking to abstract it out for anyone that doesn't have NodeCanvas.
