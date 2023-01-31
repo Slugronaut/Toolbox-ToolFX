@@ -1,0 +1,21 @@
+{
+    "name": "com.postegames.toolfx",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d055970d43ebe2d449fe0b1d2fd48b63",
+        "GUID:1d4c14c389e52fe449678815c0e575f8",
+        "GUID:e0f58bfe6a703f24a85f9333758706b6",
+        "GUID:9c0a338e6b91ff44d87dfae00e162757",
+        "GUID:01112215c5eed6a419b30b02a246119d",
+        "GUID:320e6532ec885b142a3fb20a1602bf4f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

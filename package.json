@@ -1,0 +1,24 @@
+{
+  "name": "com.postegames.toolfx",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - Tool FX",
+  "description": "A generic ScriptableObject based appraoch to creating effects that can be used for a variety of gameplay purposes including, tools, weapons, interacables, and more.",
+  "unity": "2022.2",
+  "keywords": [
+    "toolbox",
+    "tool",
+    "toolfx"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.autonomousentities": "",
+    "com.postegames.collections": "",
+    "com.postegames.eventbehaviourframework": "",
+    "com.postegames.hashedstring": "",
+    "com.postegames.unityextensions": ""
+  }
+}
