@@ -1,6 +1,8 @@
 # Toolbox-ToolFX
 A generic ScriptableObject based appraoch to creating effects that can be used for a variety of gameplay purposes including, tools, weapons, interactables, and more.
 
+For a brilliant overview of what this system is and how it works please refer to the most awesome Unite speach by everyon't favorite Superpig, Richard Fine and his talk of [Overthrowing the MonoBehaviour Tyranny in a Glorious Scriptable Object](https://www.youtube.com/watch?v=6vmRwLYWNRo&t=2717s)
+
 Dependencies:  
 [com.postegames.autonomousentities](https://github.com/Slugronaut/Toolbox-AutonomousEntities)  
 [com.postegames.collections](https://github.com/Slugronaut/Toolbox-Collections) 
