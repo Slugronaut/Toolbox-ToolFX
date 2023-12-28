@@ -7,6 +7,7 @@ using UnityEngine.Serialization;
 
 using NodeCanvas.Framework;
 using Sirenix.OdinInspector;
+using Peg.AutonomousEntities;
 
 namespace ToolFx
 {

@@ -1,9 +1,9 @@
 using NodeCanvas.Framework;
 using System;
-using Peg;
 using UnityEngine;
 using static ToolFx.Tool;
 using UnityEngine.Events;
+using Peg.AutonomousEntities;
 
 namespace ToolFx
 {
